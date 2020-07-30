@@ -2,7 +2,7 @@
 decoded sequelize tutorial
 
 -Install Node;
-Install MySQL in your computer;
+-Install MySQL in your computer;
 Clone the repository; 
 Run: npm install;
 create a .env file in project root directory and provide values of the following: 
