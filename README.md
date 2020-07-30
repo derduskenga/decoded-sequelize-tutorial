@@ -1,7 +1,7 @@
 # decoded-sequelize-tutorial
 decoded sequelize tutorial
 
-Install Node;
+-Install Node;
 Install MySQL in your computer;
 Clone the repository; 
 Run: npm install;
