@@ -28,7 +28,7 @@ create a .env file in project root directory and provide values of the following
 Run the following command to create your database tables
 ```bash
 
-Run: npx sequelize-cli db:migrate;
+Run: npx sequelize-cli db:migrate
 ```
 Optionally, run the folowind command to add some fake tables to your database table. 
 
